@@ -2,6 +2,16 @@
 
 This contains everything you need to run your app locally.
 
+## Live Demo
+
+Your app is deployed at:
+https://rahulchirra.github.io/dynamic-personal-portfolio/
+
+## Local Preview
+
+You can also preview your app locally at:
+https://crispy-broccoli-446494prq9h7xg-5173.app.github.dev/dynamic-personal-portfolio/
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
