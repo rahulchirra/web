@@ -7,6 +7,8 @@ This contains everything you need to run your app locally.
 Your app is deployed at:
 https://rahulchirra.github.io/dynamic-personal-portfolio/
 
+(If you don't see your site, make sure GitHub Pages is enabled for the `gh-pages` branch in your repository settings.)
+
 ## Local Preview
 
 You can also preview your app locally at:
